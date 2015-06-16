@@ -1,2 +1,2 @@
 # myfirst
-My first repo on GItHub
+My first repo on GitHub
